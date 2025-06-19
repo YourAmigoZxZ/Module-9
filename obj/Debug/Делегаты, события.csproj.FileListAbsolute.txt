@@ -1,0 +1,7 @@
+C:\Users\Maksim\source\repos\Делегаты, события\bin\Debug\Делегаты, события.exe.config
+C:\Users\Maksim\source\repos\Делегаты, события\bin\Debug\Делегаты, события.exe
+C:\Users\Maksim\source\repos\Делегаты, события\bin\Debug\Делегаты, события.pdb
+C:\Users\Maksim\source\repos\Делегаты, события\obj\Debug\Делегаты, события.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\Делегаты, события\obj\Debug\Делегаты, события.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\Делегаты, события\obj\Debug\Делегаты, события.exe
+C:\Users\Maksim\source\repos\Делегаты, события\obj\Debug\Делегаты, события.pdb
